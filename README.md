@@ -1,6 +1,6 @@
 # Solidity and ethers.js Examples
 
-This repository contains examples of smart contracts written in Solidity and scripts using ethers.js. These examples were created as part of a 'summer school' to teach basic blockchain development concepts to students from outside the institute.
+This repository contains examples of smart contracts written in Solidity and scripts using ethers.js. These examples were created as part of a 'Summer school' to teach basic blockchain development concepts to students.
 
 
 ## Smart Contracts
